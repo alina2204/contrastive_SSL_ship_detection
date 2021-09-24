@@ -1,6 +1,6 @@
 ﻿# Contrastive Self-supervised Learning for ship detection in Sentinel 2 images
 
-This work allow to perform ship detection using self-supervised learning (SSL). A Sentinel-2 dataset for ship detection is provided. Check our article for more details : [link!!]
+This work allow to perform ship detection using self-supervised learning (SSL). A Sentinel-2 dataset for ship detection is provided. Check our article for more details
 
 ## Environment
 ### Install requirements
@@ -8,13 +8,7 @@ This work allow to perform ship detection using self-supervised learning (SSL). 
 pip install 
 ```
 ### Docker
-A docker with a correctly configured environment can be build and run via :
-```bash
-# build
- docker build 
-# run
-docker run 
-```
+A docker with a correctly configured environment can be built.
 
 ## S2-SHIPS Dataset
 Our S2-SHIPS dataset can be found in "s2ship" directory. It contains the COCO annotations files, the 12 spectral bands for each tile, the extracted patches ("/s2ships/patches_64_boats_only/") that can be used for training the U-Net and the sea/land segmentation masks (in "/s2ships/water_mask/").
