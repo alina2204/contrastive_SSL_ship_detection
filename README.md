@@ -3,6 +3,11 @@
 This work allow to perform ship detection using self-supervised learning (SSL). A Sentinel-2 dataset for ship detection is provided. Check our article for more details
 
 ## Environment
+### Install requirements
+```bash
+pip3 install -r requirements.txt
+```
+
 ### Docker
 A docker with a correctly configured environment can be built using the Dockerfile.
 
