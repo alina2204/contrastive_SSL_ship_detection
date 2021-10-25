@@ -96,7 +96,7 @@ def evaluate_best_thresh(rgb_img, preds_img, json_dir, save_dir, img_id, thresh,
             "url": "",
             "version": "0.1",
             "year": 2021,
-            "contributor": "Theresis/VAR",
+            "contributor": "Alina",
             "date_created": "2021/06/07"
         },
         "annotations": [],
