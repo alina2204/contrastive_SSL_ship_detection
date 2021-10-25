@@ -245,7 +245,7 @@ def predictions(dataset_test, test_ind, model, device, csv_no_filter, it, train_
                     "url": "",
                     "version": "0.1",
                     "year": 2021,
-                    "contributor": "Theresis/VAR",
+                    "contributor": "Alina",
                     "date_created": "2021/06/07"
                 },
                 "annotations": [],
