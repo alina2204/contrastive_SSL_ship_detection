@@ -68,7 +68,26 @@ To try the baseline BL_NDWI, do as follows :
 python3 s2ships_gen_data.py --save_dir /saving/path 
 ```
 
+## Citing this work
 
+Please cite using the bibtex generated from [the MDPI article page](https://www.mdpi.com/2072-4292/13/21/4255)
+
+for example as:
+
+```
+@Article{rs13214255,
+AUTHOR = {Ciocarlan, Alina and Stoian, Andrei},
+TITLE = {Ship Detection in Sentinel 2 Multi-Spectral Images with Self-Supervised Learning},
+JOURNAL = {Remote Sensing},
+VOLUME = {13},
+YEAR = {2021},
+NUMBER = {21},
+ARTICLE-NUMBER = {4255},
+URL = {https://www.mdpi.com/2072-4292/13/21/4255},
+ISSN = {2072-4292},
+DOI = {10.3390/rs13214255}
+}
+```
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
