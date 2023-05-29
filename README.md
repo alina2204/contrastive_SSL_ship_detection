@@ -12,7 +12,7 @@ pip3 install -r requirements.txt
 A docker with a correctly configured environment can be built using the Dockerfile.
 
 ## S2-SHIPS Dataset
-Our S2-SHIPS dataset can be downloaded here : https://drive.google.com/file/d/1zDgz6wr5kxikPR7o9nJ2IjMcaqwtiLLu/view?usp=sharing. It contains the COCO annotations files, the 12 spectral bands for each S2-SHIPS tile in a tif or numpy array version, the S2-SHIPS segmentation masks, the water masks and some pretrained backbones.
+Our S2-SHIPS dataset can be downloaded here : https://drive.google.com/file/d/1zDgz6wr5kxikPR7o9nJ2IjMcaqwtiLLu/view?usp=sharing. It contains the COCO annotations files, the 12 spectral bands for each S2-SHIPS tile in a tif or numpy array version, the S2-SHIPS segmentation masks and the water masks.
 
 ## Usage
 
